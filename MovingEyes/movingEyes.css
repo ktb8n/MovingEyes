@@ -4,7 +4,7 @@ body {
 }
 .eyes {
     position: absolute;
-    top: 50%;
+    top: 400px;
     transform: translateY(-50%);
     width: 100%;
     text-align: center;
@@ -34,7 +34,7 @@ body {
     border-radius: 50%;
     z-index: 1;
   }
-  /* EVERYTHING ABOVE WAS COPIED FROM */
+
 .items1{
     background-image: url("No_Eyes_-_640x951_72_-_Giuseppe_Arcimboldo_-_Self_Portrait.png");
     width: 640px;
